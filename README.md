@@ -6,4 +6,8 @@
 <img src="https://discord.c99.nl/widget/theme-4/341257205846376450.png">
 </p>
 
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Jxzper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxzper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
